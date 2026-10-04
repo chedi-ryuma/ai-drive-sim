@@ -1,0 +1,13 @@
+{
+ "reward": {
+  "progress": 1.0,
+  "sand": 0.3,
+  "dist": 0.002,
+  "speed": 0.0,
+  "crash": 0.0,
+  "finish": 1.0,
+  "stops": 1.0
+ },
+ "pit_mode": "ai",
+ "team_call": true
+}
